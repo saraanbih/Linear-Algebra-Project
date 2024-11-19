@@ -56,16 +56,37 @@ You can download your solution as pdf file
 
 ---
 
+
 ## **How to Use**  
-1. **Launch the Application**: Start the executable file.  
-2. **Select a Method**:  
-   - Choose between Gauss-Jordan and Gaussian Elimination.  
+
+1. **Launch the Application**:  
+   - Start the executable file to open the application.  
+
+2. **Select a Solving Method**:  
+   - Choose between **Gauss-Jordan** or **Gaussian Elimination** for solving the linear system.  
+
 3. **Input Data**:  
-   - Choose to either enter equations directly or specify the matrix dimensions and elements.  
-4. **View Solution**: The application displays the calculated solution.  
-5. **Save as PDF**: Export the solution as a PDF file for documentation.
+   - Decide how you want to provide the data:  
+     - **Enter equations directly**.  
+     - **Specify matrix dimensions and elements**.  
+
+4. **Input Equations**:  
+   - Enter the equations in the format of linear expressions. For example:  
+     - `x + y = 4`  
+     - `2x - 5y = 9`  
+
+5. **Input Matrix**:  
+   - Provide the number of rows and columns (must be greater than 2).  
+   - The application will automatically generate a matrix grid for you to input the elements.  
+
+6. **View the Solution**:  
+   - Once the data is submitted, the application will calculate and display the solution on the screen.  
+
+7. **Save as PDF**:  
+   - Export the solution to a PDF file for easy sharing and future reference.  
 
 ---
+
 
 ## **Planned Features**  
 In future updates, we plan to introduce: 
