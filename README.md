@@ -98,7 +98,7 @@ In future updates, we plan to introduce:
 ## **Dependencies**  
 - Windows Forms  
 - .NET Framework
-- PDF generation library (mention the specific library you used, e.g., iTextSharp or PdfSharp).
+- PDF generation library (I have used iTextSharp.text and iTextSharp.text.pdf).
   
 ---
 
