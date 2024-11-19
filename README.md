@@ -25,24 +25,32 @@ A Windows Forms application designed to solve linear system equations using two 
 
 ### Main Form
 This is the initial form where the user selects the solving method:
+
 ![Main](https://github.com/user-attachments/assets/4eaf79b8-8e90-4421-9904-28482a791cc7)
+
 ![Main](https://github.com/user-attachments/assets/b6cd1a94-b907-4f09-b793-53eb659197fe)
 
 ### Equation Input Form
 Users can enter equations in this interface:
+
 ![Equations](https://github.com/user-attachments/assets/541001ae-1762-4535-b53c-7a03ed1f7b24)
 
 ### Enter Matrix With Rows and Columns
 Users can specify the number of rows and columns, after which the application will automatically generate the matrix, allowing them to input its elements.
+
 ![Enter Matrix Rows and Columns](https://github.com/user-attachments/assets/e68c6999-b4c2-46fe-bc19-ab9c60f81e28)
+
 ![Matrix Elements](https://github.com/user-attachments/assets/c4ff71e6-4774-4788-8806-7825b6df7c8b)
 
 ---
 
 ### Solution Display With Saving It
 The solution is shown in the final form:
+
 ![Solve](https://github.com/user-attachments/assets/7e90afeb-5916-43d4-aa04-00fff02c8b21)
+
 You can download your solution as pdf file
+
 ![Save](https://github.com/user-attachments/assets/b6bf6456-b2c3-4603-88d2-abc2288215f9)
 
 
